@@ -1,3 +1,1 @@
-# FreeCodeCampPalindromeChecker
-# FreeCodeCampPalindromeChecker
 # JavaScript-FreeCodeCamp_Algorithms_and_Data_Structures
